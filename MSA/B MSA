@@ -1,0 +1,57 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sampleB         ---------------------------------------------HMQEPQSTYYFLSTF	15
+MW316287.1      CGFFKLLKDNSYPLVLGTKKLVQLQMKVMNLFTSSTLLTLFMLTTPIVASSTNFYKSNKY	60
+MW316132.1      CGFFKLLKDNSYPLVLGTKKLVQLQMKVMNLFTSSTLLTLFMLTTPIVASSTNFYKSNKY	60
+                                                              :   .:.:*  ..:
+
+sampleB         AGVSSILGAINFITTIINMKPPAMTQYQTPL-----------------------------	46
+MW316287.1      QHYVKNMTLLAFITSLIPTTMFVHTNQETLISSWHWITIHTLKLSLSFKMDYFSLMFMPV	120
+MW316132.1      QHYVKNMTLLAFITSLIPTTMFVHTNQETLISSWHWITIHTLKLSLSFKMDYFSLMFMPV	120
+                    . :  : ***::*  .  . *: :* :                             
+
+sampleB         ---FVWSVLITAILLLLSLPVLAA--------GITM--LLTDRNLNTTFDPAGGGDPVLY	93
+MW316287.1      ALFITWSIMEFSIWYMHSDPNINQFFKYLLIFLITMLILTTANNLFQLFIGWE-GVGIMS	179
+MW316132.1      ALFITWSIMEFSIWYMHSDPNINQFFKYLLIFLITMLILTTANNLFQLFIGWE-GVGIMS	179
+                   :.**::  :*  : * * :           ***  * * .**   *     *  :: 
+
+sampleB         QHFLIFWSPRSMYPNSTRFRDNLTYRNL--------------------------------	121
+MW316287.1      FLLIGWWFGRSDA-NTAALQ-AILYNRIGDIGFLLSMAWFLSNTNTWDLQQIFMLNQSSP	237
+MW316132.1      FLLIGWWFGRSDA-NTAALQ-AILYNRIGDIGFLLSMAWFLSNTNTWDLQQIFMLNQSSP	237
+                  :: :*  **   *:: ::  : *..:                                
+
+sampleB         ----------LSGKK---------------------------------------------	126
+MW316287.1      NIPLMGLTLAAAGKSAQFGLHPWLPSAMEGPTPVSALLHSSTMVVAGIFLLIRFYPLMEN	297
+MW316132.1      NIPLMGLTLAAAGKSAQFGLHPWLPSAMEGPTPVSALLHSSTMVVAGIFLLIRFYPLMEN	297
+                           :**.                                             
+
+sampleB         ---------------------------------------------------E--------	127
+MW316287.1      NKPIQTMVLSLGALTTLFTAICALTQNDIKKIIAFSTSSQLGLMMVTIGLNQPHLAFLHI	357
+MW316132.1      NKPIQTMVLSLGALTTLFTAICALTQNDIKKIIAFSTSSQLGLMMVTIGLNQPHLAFLHI	357
+                                                                   :        
+
+sampleB         -----------------------------------------PLDMWGCVGYS--------	138
+MW316287.1      CTHAFFKAMLFLCSGSIIHSLNNEQDIRKMGGLYKILPFTTTALITGCLALTGMPFLTGF	417
+MW316132.1      CTHAFFKAMLFLCSGSIIHSLNNEQDIRKMGGLYKILPFTTTALITGCLALTGMPFLTGF	417
+                                                            : **:. :        
+
+sampleB         ------------------------------------------------------------	138
+MW316287.1      YSKDLIIEAATSSYTNAWALLLTLIATSLTAIYSTRIIFLTLLEQPRFPPLVSINETNPM	477
+MW316132.1      YSKDLIIEAATSSYTNAWALLLTLIATSLTAIYSTRIIFLTLLEQPRFPPLVSINETNPM	477
+                                                                            
+
+sampleB         ------------------------------------------------------------	138
+MW316287.1      LINPIKRLLIGSIFAGFILSNNMPPMTTPLMTMPLHLKLTALTMTILGFILAFEINSYSK	537
+MW316132.1      LINPIKRLLIGSIFAGFILSNNMPPMTTPLMTMPLHLKLTALTMTILGFILAFEINSYSK	537
+                                                                            
+
+sampleB         ----------------FYWFPGFHCMSSPYIYSRN-------------------------	157
+MW316287.1      TLKYPHPSNATNFSTLLGYFPTIMHRLPPYLVLTMSQKLATSLLDLTWMEVLLPKTTAHI	597
+MW316132.1      TLKYPHPSNATNFSTLLGYFPTIMHRLPPYLVLTMSQKLATSLLDLTWMEVLLPKTTAHI	597
+                                : :** :     **:                             
+
+sampleB         -------------------------------------	157
+MW316287.1      QLKASLLTSNQKGLIKLYFLSFLITMTLTLVLFNYLE	634
+MW316132.1      QLKASLLTSNQKGLIKLYFLSFLITMTLTLVLFNYLE	634
+                                                     
