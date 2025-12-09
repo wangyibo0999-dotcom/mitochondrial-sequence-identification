@@ -29,18 +29,18 @@ Translate DNA into amino acids using Biopython
 Output all protein sequences into a single FASTA file (translated_proteins.fasta)
 
 （4）Multiple Sequence Alignment (MSA) & Phylogenetic Tree Construction
-After obtaining the translated protein sequences (Step 3), all sequences (sample + references) were aligned using Clustal Omega on the EBI web server:https://www.ebi.ac.uk/Tools/msa/clustalo/
+After obtaining the translated protein sequences, all sequences (sample + references) were aligned using Clustal Omega on the EBI web server:https://www.ebi.ac.uk/Tools/msa/clustalo/
 
 Multiple Sequence Alignment (MSA)
 Clustal Omega generated:
 A multiple sequence alignment (in Clustal format)
-A visual alignment map showing conserved positions (*, :, .)(saved as A MSA.txt.....)
+A visual alignment map showing conserved positions (*, :, .)(saved as MSA)
 The alignment was inspected to identify:
 Highly conserved regions,Regions with gaps or variation,Sample sequence completeness and quality
-A representative aligned region was selected and used in the report (saved as A MSA.png.....).
+A representative aligned region was selected and used in the report (saved as A MSA png).
 
 Guide Tree
 
 Clustal Omega also produced:
 A guide tree (Newick format .dnd)
-These were exported and saved as:(A.tree.....)and(A tree.png.....)
+These were exported and saved as:(Tree and Tree png)
