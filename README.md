@@ -34,8 +34,7 @@ After obtaining the translated protein sequences (Step 3), all sequences (sample
 Multiple Sequence Alignment (MSA)
 Clustal Omega generated:
 A multiple sequence alignment (in Clustal format)
-A visual alignment map showing conserved positions (*, :, .)
-A downloadable aligned FASTA file
+A visual alignment map showing conserved positions (*, :, .)(saved as A MSA.txt.....)
 The alignment was inspected to identify:
 Highly conserved regions,Regions with gaps or variation,Sample sequence completeness and quality
 A representative aligned region was selected and used in the report (saved as A MSA.png.....).
@@ -44,5 +43,4 @@ Guide Tree
 
 Clustal Omega also produced:
 A guide tree (Newick format .dnd)
-These were exported and saved as:(A.tree.....)
-
+These were exported and saved as:(A.tree.....)and(A tree.png.....)
